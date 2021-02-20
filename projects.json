@@ -24,95 +24,19 @@
         "technologies": "React Less BS-Grid-4 Webpack",
         "git": "www.github.com",
         "demo": "www.demo.com"
-    },
-    {
-        "id": 3,
-        "category": "Web",
-        "title": "Project Title 3",
-        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt suscipit impedit fugiat illo deleniti nobis!",
-        "technologies": "React Less BS-Grid-4 Webpack",
-        "git": "www.github.com",
-        "demo": "www.demo.com"
-    },
-    {
-        "id": 4,
-        "category": "Desktop",
-        "title": "Project Title 4",
-        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt suscipit impedit fugiat illo deleniti nobis!",
-        "technologies": "React Less BS-Grid-4 Webpack",
-        "git": "www.github.com",
-        "demo": "www.demo.com"
-    },
-    {
-        "id": 5,
-        "category": "Mobile",
-        "title": "Project Title 5",
-        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt suscipit impedit fugiat illo deleniti nobis!",
-        "technologies": "React Less BS-Grid-4 Webpack",
-        "git": "www.github.com",
-        "demo": "www.demo.com"
-    },
-    {
-        "id": 6,
-        "category": "Web",
-        "title": "Project Title 6",
-        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt suscipit impedit fugiat illo deleniti nobis!",
-        "technologies": "React Less BS-Grid-4 Webpack",
-        "git": "www.github.com",
-        "demo": "www.demo.com"
-    },
-    {
-        "id": 7,
-        "category": "Desktop",
-        "title": "Project Title 7",
-        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt suscipit impedit fugiat illo deleniti nobis!",
-        "technologies": "React Less BS-Grid-4 Webpack",
-        "git": "www.github.com",
-        "demo": "www.demo.com"
-    },
-    {
-        "id": 8,
-        "category": "Mobile",
-        "title": "Project Title 8",
-        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt suscipit impedit fugiat illo deleniti nobis!",
-        "technologies": "React Less BS-Grid-4 Webpack",
-        "git": "www.github.com",
-        "demo": "www.demo.com"
-    },
-    {
-        "id": 9,
-        "category": "Web",
-        "title": "Project Title 9",
-        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt suscipit impedit fugiat illo deleniti nobis!",
-        "technologies": "React Less BS-Grid-4 Webpack",
-        "git": "www.github.com",
-        "demo": "www.demo.com"
-    },
-    {
-        "id": 10,
-        "category": "Desktop",
-        "title": "Project Title 10",
-        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt suscipit impedit fugiat illo deleniti nobis!",
-        "technologies": "React Less BS-Grid-4 Webpack",
-        "git": "www.github.com",
-        "demo": "www.demo.com"
-    },
-    {
-        "id": 11,
-        "category": "Mobile",
-        "title": "Project Title 11",
-        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt suscipit impedit fugiat illo deleniti nobis!",
-        "technologies": "React Less BS-Grid-4 Webpack",
-        "git": "www.github.com",
-        "demo": "www.demo.com"
-    },
-    {
-        "id": 12,
-        "category": "Web",
-        "title": "Project Title 12",
-        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt suscipit impedit fugiat illo deleniti nobis!",
-        "technologies": "React Less BS-Grid-4 Webpack",
-        "git": "www.github.com",
-        "demo": "www.demo.com"
     }
+        
+        
+
+
+
+
+
+        
+    
+ 
+
+
+
+
 ]
