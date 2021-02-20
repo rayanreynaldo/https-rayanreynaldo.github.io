@@ -4,6 +4,6 @@
         "title": "Portfolio",
         "description": "A simple and responsive portfolio website.",
         "technologies": "React Less BSgrid-4 Webpack",
-        "demo": "rayanreynaldo.github.io",
-        "git": "www.github.com/rayanreynaldo/"
+        "demo": "https://rayanreynaldo.github.io",
+        "git": "https://github.com/rayanreynaldo/"
 }]
