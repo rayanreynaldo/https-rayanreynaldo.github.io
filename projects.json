@@ -1,40 +1,25 @@
 [{
         "id": 0,
-        "category": "Mobile",
-        "title": "Project Title 0",
+        "category": "Responsive",
+        "title": "Portfolio",
         "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt suscipit impedit fugiat illo deleniti nobis!",
         "technologies": "React Less BS-Grid-4 Webpack",
-        "git": "www.github.com",
-        "demo": "www.demo.com"
-    },
-    {
-        "id": 1,
-        "category": "Desktop",
-        "title": "Project Title 1",
-        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt suscipit impedit fugiat illo deleniti nobis!",
-        "technologies": "React Less BS-Grid-4 Webpack",
-        "git": "www.github.com",
-        "demo": "www.demo.com"
-    },
-    {
-        "id": 2,
-        "category": "Desktop",
-        "title": "Project Title 2",
-        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt suscipit impedit fugiat illo deleniti nobis!",
-        "technologies": "React Less BS-Grid-4 Webpack",
-        "git": "www.github.com",
-        "demo": "www.demo.com"
-    }
+        "demo": "https://rayamreynado.github.io",
+        "git": "www.github.com/rayanreynaldo/"
+
+
+}
+
         
-        
+   
 
 
 
 
 
         
-    
- 
+
+
 
 
 
