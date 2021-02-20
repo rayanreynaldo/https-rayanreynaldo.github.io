@@ -2,26 +2,8 @@
         "id": 0,
         "category": "Responsive",
         "title": "Portfolio",
-        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt suscipit impedit fugiat illo deleniti nobis!",
-        "technologies": "React Less BS-Grid-4 Webpack",
-        "demo": "https://rayamreynado.github.io",
+        "description": "A simple and responsive portfolio website.",
+        "technologies": "React Less BSgrid-4 Webpack",
+        "demo": "https://rayanreynaldo.github.io",
         "git": "www.github.com/rayanreynaldo/"
-
-
-}
-
-        
-   
-
-
-
-
-
-        
-
-
-
-
-
-
-]
+}]
