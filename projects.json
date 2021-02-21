@@ -6,4 +6,22 @@
         "technologies": "React Less BSgrid-4 Webpack",
         "demo": "https://rayanreynaldo.github.io",
         "git": "https://github.com/rayanreynaldo/"
+},
+{
+        "id": 1
+        "category": "",
+        "title": "Soon",
+        "description": "",
+        "technologies": "",
+        "demo": "",
+        "git": ""
+},
+{
+        "id": 2
+        "category": "",
+        "title": "Soon",
+        "description": "",
+        "technologies": "",
+        "demo": "",
+        "git": ""
 }]
